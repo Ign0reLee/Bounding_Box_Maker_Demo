@@ -15,16 +15,23 @@ Therefore, we will continue to update these sections in the future. If you have 
 # Enviroment
 
 python 3.6.7
+
 opencv-python 3.4.3.18
+
 jupyter 1.0.0
+
 notebook 5.6.0
+
 numpy 1.15.2
 
 # Install Requirement
 
 pip install jupyter
+
 pip install opencv-python
+
 pip install tkinter
+
 pip install numpy
 
 
