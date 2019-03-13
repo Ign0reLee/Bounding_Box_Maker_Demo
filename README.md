@@ -35,11 +35,11 @@ pip install tkinter
 pip install numpy
 
 
+# How to use it
+
 Run on jupyter notebook
 
 python -m notebook --notebook-dir [Your Path]
-
-# How to use it
 
 If you can run, you can look two button, named fileload and quit
 
