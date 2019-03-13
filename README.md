@@ -1,6 +1,4 @@
-# Bounding_Box_Maker_Demo
-
-# How to Use it BoxMaker -Demo
+# How to Use it Bounding_Box_Maker_Demo
 
 # NOTE
 
