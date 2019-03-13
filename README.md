@@ -74,6 +74,8 @@ Since the rectangle follows the Opencv style, you should always set it from left
 
 It's not a definite bug yet, but if you often go out of the way too edge , squares can bounce in image.
 
+If you load an image that is too long sentence, or if you load an image that contains non-English characters, an error may occur. Use images that are composed of as few sentences as possible
+
 # Examples
 
 Use Examples
