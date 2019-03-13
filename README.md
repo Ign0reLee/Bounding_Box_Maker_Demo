@@ -74,4 +74,12 @@ Since the rectangle follows the Opencv style, you should always set it from left
 
 It's not a definite bug yet, but if you often go out of the way too edge , squares can bounce in image.
 
+# Examples
 
+Use Examples
+
+![Examples_To_Use](./Examples_To_Use.png)
+
+Outputs Examples
+
+![Examples_To_Outputs](./Examples_To_Outputs)
