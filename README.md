@@ -1,7 +1,8 @@
 # Bounding_Box_Maker_Demo
 
-How to Use it BoxMaker -Demo
-NOTE
+# How to Use it BoxMaker -Demo
+
+# NOTE
 
 I wanted to create my own data for object detection, but I created this code because it was difficult to find code or programs that support these features.
 
@@ -13,7 +14,7 @@ Rather than trying to get a sense of how perfect the code is, we've created it t
 
 Therefore, we will continue to update these sections in the future. If you have a need or an inconvenience, please suggest it with your ID. I would appreciate that.
 
-Enviroment
+# Enviroment
 
 python 3.6.7
 opencv-python 3.4.3.18
@@ -21,7 +22,7 @@ jupyter 1.0.0
 notebook 5.6.0
 numpy 1.15.2
 
-Install Requirement
+# Install Requirement
 
 pip install jupyter
 pip install opencv-python
@@ -33,7 +34,7 @@ Run on jupyter notebook
 
 python -m notebook --notebook-dir [Your Path]
 
-How to use it
+# How to use it
 
 If you can run, you can look two button, named fileload and quit
 
@@ -60,7 +61,7 @@ Repeat the above steps as many times as you like.
 
 Finally, If you want to save and exit, press the ESC key.
 
-Precautions
+# Precautions
 
 Once set, the rectangle can not be erased. Please work again from the beginning or subtract the square at the saved file.
 
