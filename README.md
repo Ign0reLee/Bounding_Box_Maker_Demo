@@ -73,3 +73,5 @@ Once set, the rectangle can not be erased. Please work again from the beginning 
 Since the rectangle follows the Opencv style, you should always set it from left to right down.
 
 It's not a definite bug yet, but if you often go out of the way too edge , squares can bounce in image.
+
+
