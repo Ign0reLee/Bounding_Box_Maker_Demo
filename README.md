@@ -76,6 +76,8 @@ It's not a definite bug yet, but if you often go out of the way too edge , squar
 
 If you load an image that is too long sentence, or if you load an image that contains non-English characters, an error may occur. Use images that are composed of as few sentences as possible
 
+If you pressing too many keys will process them nested in order.
+
 # Examples
 
 Use Examples
